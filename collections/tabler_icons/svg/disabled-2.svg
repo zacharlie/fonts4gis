@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-disabled-2" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="param(outline)" d="M0 0h24v24H0z" fill="param(fill)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <circle cx="17" cy="6" r="2" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <path d="M9 11a4.97 4.97 0 1 0 3.95 7.95" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <path d="M19 20l-4 -5h-4l3 -5l-4 -3l-4 1" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+</svg>

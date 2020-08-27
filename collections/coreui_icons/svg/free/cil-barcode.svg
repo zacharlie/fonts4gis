@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="param(fill)" d="M16,464H496V56H16ZM48,88H464V432H48Z" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="256" x="80" y="128" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="192" x="144" y="128" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="256" x="208" y="128" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="192" x="272" y="128" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="192" x="336" y="128" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="256" x="400" y="128" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="32" x="144" y="352" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="32" x="272" y="352" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="32" x="336" y="352" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+</svg>

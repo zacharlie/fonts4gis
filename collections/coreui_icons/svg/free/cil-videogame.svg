@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="param(fill)" d="M16,360H496V120H16ZM48,152H464V328H48Z" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <polygon fill="param(fill)" points="152 184 120 184 120 224 80 224 80 256 120 256 120 296 152 296 152 256 192 256 192 224 152 224 152 184" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="32" x="336" y="256" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  <rect width="32" height="32" x="400" y="192" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+</svg>

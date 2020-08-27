@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="301" height="151" viewBox="0 0 301 151">
+  <defs>
+    <path id="a" d="M.5.5h150v75H.5z" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path id="c" d="M.5.5V38h175v37.5h-25L.5.5zm150 0h-75V88H.5V75.5l150-75z" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="param(fill)" fill-rule="nonzero" d="M.5.5h300v150H.5z" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <mask id="b" fill="#fff">
+      <use ns1:href="#a" />
+    </mask>
+    <path fill="param(fill)" fill-rule="nonzero" stroke="param(outline)" stroke-width="param(outline-width) 0" d="M.5.5l150 75m0-75l-150 75" mask="url(#b)" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <mask id="d" fill="#fff">
+      <use ns1:href="#c" />
+    </mask>
+    <path fill="param(fill)" fill-rule="nonzero" stroke="param(outline)" stroke-width="param(outline-width) 0" d="M.5.5l150 75m0-75l-150 75" mask="url(#d)" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path fill="param(fill)" fill-rule="nonzero" stroke="param(outline)" stroke-width="param(outline-width) 0" d="M75.5.5V88M.5 38h175" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path fill="param(fill)" fill-rule="nonzero" stroke="param(outline)" stroke-width="param(outline-width) 0" d="M75.5.5v80.273M.5 38h155.273" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path fill="param(fill)" fill-rule="nonzero" d="M.5 75.5h150V.5h50v100H.5z" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path fill="param(fill)" fill-rule="nonzero" d="M75.5 90.5l4.339 13.491 13.252-5.019-7.842 11.803 12.187 7.232-14.118 1.228 1.944 14.037L75.5 123l-9.762 10.272 1.944-14.037-14.118-1.228 12.187-7.232-7.842-11.803 13.252 5.019zM225.5 114.785l2.066 6.424 6.311-2.39-3.734 5.621 5.803 3.444-6.722.585.926 6.684-4.649-4.891-4.649 4.891.926-6.684-6.722-.585 5.803-3.444-3.734-5.621 6.31 2.39zM188 55.411l2.066 6.424 6.311-2.39-3.734 5.621 5.803 3.444-6.722.585.926 6.684-4.65-4.892-4.649 4.891.926-6.684-6.723-.585 5.803-3.444-3.734-5.621 6.311 2.39zM225.5 14.786l2.066 6.424 6.311-2.39-3.734 5.62 5.803 3.444-6.722.585.926 6.684-4.649-4.891-4.649 4.891.926-6.684-6.722-.585 5.803-3.444-3.734-5.62 6.31 2.39zM258.833 45.411l2.066 6.424 6.311-2.39-3.734 5.621 5.803 3.444-6.723.585.926 6.684-4.649-4.891-4.649 4.891.926-6.684-6.723-.585 5.803-3.444-3.734-5.621 6.311 2.39zM240.5 75.5l1.633 4.003 4.311.316-3.302 2.79 1.032 4.198-3.674-2.279-3.674 2.279 1.032-4.198-3.302-2.79 4.311-.316z" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  </g>
+</svg>

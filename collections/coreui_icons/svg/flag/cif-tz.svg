@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="301" height="201" viewBox="0 0 301 201">
+  <defs>
+    <path id="a" d="M.5.5h300v200H.5z" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path id="c" d="M.5.5h300v200H.5z" fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="param(fill)" fill-rule="nonzero" d="M.5.5h300l-300 200" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path fill="param(fill)" fill-rule="nonzero" d="M.5 200.5h300V.5" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <mask id="b" fill="#fff">
+      <use ns1:href="#a" />
+    </mask>
+    <path stroke="param(outline)" stroke-width="param(outline-width) 0" d="M.5 200.5l300-200" mask="url(#b)" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <mask id="d" fill="#fff">
+      <use ns1:href="#c" />
+    </mask>
+    <path stroke="param(outline)" stroke-width="param(outline-width) 0" d="M.5 200.5l300-200" mask="url(#d)" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  </g>
+</svg>

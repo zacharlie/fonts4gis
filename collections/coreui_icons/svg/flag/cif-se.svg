@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="301" height="189" viewBox="0 0 301 189">
+  <g fill="none">
+    <path fill="param(fill)" d="M.5.75h300v187.5H.5z" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path fill="param(fill)" d="M94.25.75h37.5v187.5h-37.5z" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+    <path fill="param(fill)" d="M.5 75.75h300v37.5H.5z" stroke="param(outline)" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity)" stroke-opacity="param(outline-opacity)" />
+  </g>
+</svg>
